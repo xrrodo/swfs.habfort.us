@@ -1,4 +1,0 @@
-landing.view.competition.hof.xmasRoomComp.rankdesc.leader=Making credits is life
-landing.view.jan18hcclub.body=Take a trip down memory lane with our HC Club bundle! Comes with two EXCLUSIVE HC Lounge Elephants! (HC MEMBERS ONLY).
-landing.view.jan18hcclub.button=See the bundle!
-landing.view.jan18hcclub.header=Classic HC Club Bundle
