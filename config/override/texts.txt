@@ -1,1 +1,1 @@
-
+landing.view.competition.hof.xmasRoomComp.rankdesc.leader=Making credits is life
