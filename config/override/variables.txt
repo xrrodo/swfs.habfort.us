@@ -3,7 +3,7 @@ landing.view.jan18hcclub.conf=caption,landing.view.jan18hcclub.header;bodytext,l
 landing.view.jan18hcclub.layout=bitmap.uri,https://swfs.habfort.us/game/images/promo/spromo_house18_gen.gif;bitmap.x,50;bitmap.y,0;container.height,250
 landing.view.jan18hcclub.widget=generic
 landing.view.dynamic.slot.1.widget=bonusrare
-landing.view.dynamic.slot.2.conf=sep18chest
+landing.view.dynamic.slot.2.conf=sep18chest;HC312013;jan18hcclub
 landing.view.dynamic.slot.2.conf=jan18hcclub
 landing.view.dynamic.slot.2.layout=s=
 landing.view.dynamic.slot.2.widget=widgetcontainer
